@@ -1,0 +1,157 @@
+{
+    "title": "TestFairy",
+    "path_prefix": "/",
+    "base_font": "nunito",
+    "palette": "red",
+    "header": {
+        "logo_img": "images/logo.svg",
+        "logo_img_alt": "Logo",
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Home",
+                "url": "/",
+                "style": "link"
+            },
+            {
+                "label": "App Distribution",
+                "url": "/app-distribution",
+                "style": "link"
+            },
+            {
+                "label": "Pricing",
+                "url": "/pricing",
+                "style": "link"
+            },
+            {
+                "label": "Log in",
+                "url": "/contact",
+                "style": "secondary"
+            },
+            {
+                "label": "Sign Up",
+                "url": "/contact",
+                "style": "primary"
+            }
+        ]
+    },
+    "footer": {
+        "sections": [
+            {
+                "type": "footer_text",
+                "image": "images/logo-alt.svg",
+                "image_url": "/",
+                "image_alt": "Footer logo",
+                "content": "TestFairy is a mobile testing platform that helps enterprise companies streamline their mobile development process and release better apps to the market, in shorter development cycles."
+            },
+            {
+                "type": "footer_nav",
+                "title": "Solutions",
+                "nav_links": [
+                    {
+                        "label": "Powerful insights",
+                        "url": "/about",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Single sign-on",
+                        "url": "/blog",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Continuous integration",
+                        "url": "/contact",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Private cloud",
+                        "url": "/contact",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Issue tracking",
+                        "url": "/contact",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Feedback",
+                        "url": "/contact",
+                        "style": "link"
+                    },
+                    {
+                        "label": "TestFlight Alternative",
+                        "url": "/contact",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "type": "footer_nav",
+                "title": "SDK",
+                "nav_links": [
+                    {
+                        "label": "Android",
+                        "url": "#",
+                        "style": "link",
+                        "has_icon": false
+                    },
+                    {
+                        "label": "iOS",
+                        "url": "#",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Flutter",
+                        "url": "https://github.com/",
+                        "style": "link"
+                    },
+                    {
+                        "label": "React Native",
+                        "url": "#",
+                        "style": "link"
+                    },
+                    {
+                        "label": "More Frameworks",
+                        "url": "#",
+                        "style": "link"
+                    }
+                ]
+            },
+            {
+                "type": "footer_nav",
+                "title": "Site",
+                "nav_links": [
+                    {
+                        "label": "Pricing",
+                        "url": "#",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Enterprise",
+                        "url": "#",
+                        "style": "link"
+                    },
+                    {
+                        "label": "Online docs",
+                        "url": "#",
+                        "style": "link"
+                    }
+                ]
+            }
+        ],
+        "has_nav": true,
+        "nav_links": [
+            {
+                "label": "Terms of Service",
+                "url": "/terms-of-service",
+                "style": "link"
+            },
+            {
+                "label": "Privacy Policy",
+                "url": "/privacy-policy",
+                "style": "link"
+            }
+        ],
+        "content": "&copy; Stackbit. All rights reserved. This Jamstack site was created with <a href=\"https://www.stackbit.com/?utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">Stackbit</a>. Create yours <a href=\"https://app.stackbit.com/create?theme=azimuth&utm_source=deployed-footer\" target=\"_blank\" rel=\"noopener\">now</a>."
+    }
+}
