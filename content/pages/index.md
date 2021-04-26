@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/home-hero-cloud.png
     image_alt: App preview
-    title: Mobile Quality Enterprise Platform!
+    title: Mobile Quality Enterprise Platform
     content: >-
       Automate your app distribution, streamline your development process,
       manage feedback cycles, and deliver faster & better to market. All this,
