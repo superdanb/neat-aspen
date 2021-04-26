@@ -75,6 +75,21 @@ sections:
           their end users and their problems when things don't work as expected.
           See what users do and easily escalate support tickets to dev teams in
           one click.
+      - title: lorem-ipsum
+        content: >-
+          ## Lorem ipsum
+
+
+          Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
+          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+
+
+          - Lorem ipsum
+
+          - dolor sit amet
+        image_alt: lorem-ipsum
+        actions: []
+        type: grid_item
     background: none
   - section_id: main-picture
     type: section_media
