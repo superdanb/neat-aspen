@@ -23,8 +23,8 @@ sections:
       src="https://www.youtube.com/embed/9Y8h12axeV8" title="YouTube video
       player" frameborder="0" allow="accelerometer; autoplay; clipboard-write;
       encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-    caption: >-
-      **This video shows how TestFairy's App Distribution platform works. It
+    caption: >
+      **!!!This video shows how TestFairy's App Distribution platform works. It
       starts with architecture, and shows how TestFairy connects to your CI,
       Single Sign-On, Bug Systems and Team Communication apps. It shows the
       flexible security configuration, allowing you have full control on your
