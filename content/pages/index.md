@@ -131,7 +131,7 @@ sections:
     background: dark-gray
   - section_id: call-to-action
     type: section_cta
-    title: Have a Question? Get in touch!
+    title: Have a Question? Get in touch NOW
     actions:
       - label: Get Started
         url: /contact
