@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/home-hero-cloud.png
+    image: images/logo.svg
     image_alt: App preview
     title: Mobile Quality Enterprise Platform -Add
     content: >
