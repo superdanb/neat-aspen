@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/logo.svg
     image_alt: App preview
-    title: Mobile Quality Enterprise Platform FROM CODE
+    title: Mobile Quality Enterprise Platform
     content: >
       Hello 
 
