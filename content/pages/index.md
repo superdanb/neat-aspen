@@ -79,17 +79,17 @@ sections:
           See what users do and easily escalate support tickets to dev teams in
           one click.
       - title: lorem-ipsum
-        content: >-
-          ## Lorem ipsum
+        content: >
+          ## Another feature
 
 
           Lorem ipsum dolor sit amet, **consectetur adipiscing elit**, sed do
           eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 
-          - Lorem ipsum
+          *   Lorem ipsum
 
-          - dolor sit amet
+          *   dolor sit amet
         image_alt: lorem-ipsum
         actions: []
         type: grid_item
