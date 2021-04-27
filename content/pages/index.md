@@ -97,7 +97,7 @@ sections:
           TestFairy is proud to work with companies with strict compliance
           requirements such as GDPR, CCPA, HIPAA and other standards, laws and
           regulations. TestFairy is ISO-27001 certified.
-      - question: Can TestFairy work with our corporate Single Sign-On???
+      - question: Can TestFairy work with our corporate Single Sign-On
         answer: >-
           Yes!. TestFairy is compatible with OKTA, Ping, OneLogin, IBM, Oracle,
           Google, Microsoft, Citrix and any other SSO vendor supporting SAML 2.0
