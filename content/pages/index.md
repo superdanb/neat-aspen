@@ -5,7 +5,8 @@ sections:
     type: section_hero
     image: images/2_thumb.jpg
     image_alt: App preview
-    title: Mobile Quality Enterprise Platform !!!
+    title: Mobile Quality Enterprise Platform FROM CODE
+    
     content: >
       Automate your app distribution, streamline your development process,
       manage feedback cycles, and deliver faster & better to market. All this,
