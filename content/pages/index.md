@@ -7,9 +7,6 @@ sections:
     image_alt: App preview
     title: Mobile Quality Enterprise Platform
     content: >
-      Hello 
-
-
       Automate your app distribution, streamline your development process,
       manage feedback cycles, and deliver faster & better to market. All this,
       in a highly secure, enterprise-grade environment.
