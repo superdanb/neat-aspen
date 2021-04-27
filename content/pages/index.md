@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/Screen Shot 2021-04-26 at 11.24.26 PM.png
+    image: images/2_thumb.jpg
     image_alt: App preview
     title: Mobile Quality Enterprise Platform !!!
     content: >
