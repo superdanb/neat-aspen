@@ -17,15 +17,6 @@ sections:
       - label: Get Started
         url: /features
         style: primary
-      - label: Learn more
-        url: /learnmore
-        style: secondary
-        has_icon: false
-        icon: arrow-left
-        icon_position: left
-        new_window: false
-        no_follow: false
-        type: action
     background: accent
   - section_id: features-list
     type: section_grid
