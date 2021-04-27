@@ -103,7 +103,7 @@ sections:
         answer: >-
           Yes, TestFairy allows you to restrict access to your office IP range
           or VPN.
-      - question: Can customer data be encrypted?
+      - question: Can customer data be encrypted???
         answer: >-
           Yes! TestFairy allows customers to encrypt data with their private
           keys so that no-one can see your data.
