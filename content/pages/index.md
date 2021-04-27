@@ -15,7 +15,7 @@ sections:
         url: /features
         style: primary
       - label: Learn More
-        url: '#'
+        url: /learn-more
         style: link
         has_icon: false
         icon: arrow-left
